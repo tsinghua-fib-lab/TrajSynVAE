@@ -19,7 +19,11 @@ REFERENCES
 ==========
 
 [KDD 2020] J. Feng, Z. Yang, F. Xu, H. Yu, M. Wang, Y. Li, "Learning to simulate human mobility", in Proc. KDD, 2020.
+
 [PNAS 2016] S. Jiang, Y. Yang, S. Gupta, D. Veneziano, S. Athavale, and M. C. González , "The TimeGeo modeling framework for urban mobility without travel surveys", PNAS, 2016.
+
 [TVT 2016] L. A. Maglaras and D. Katsaros, "Social clustering of vehicles based on semi-markov processes," IEEE Transactions on Vehicular Technology (TVT), 2016.
+
 [QF 2016] E. Bacry, T. Jaisson, and J. Muzy, "Estimation of slowly decreasing hawkes kernels: application to high-frequency order book dynamics," Quantitative Finance, 2016.
+
 [CVPR 2018] Y. Abu Farha, A. Richard, and J. Gall, "When will you do what?-anticipating temporal occurrences of activities,” in Proc. CVPR, 2018.

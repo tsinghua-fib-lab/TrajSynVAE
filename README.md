@@ -1,7 +1,7 @@
 # TrajSynVAE
 
 
-## Balines
+## Baselines
 
 * **MoveSim**: The model proposed to synthesize human trajectories based on GAN, which introduces prior knowledge and physical regularities to the SeqGAN model [KDD 2020]
   * Link: https://github.com/FIBLAB/MoveSim

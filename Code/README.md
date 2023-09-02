@@ -1,4 +1,4 @@
-Currently there are six files that is necessary for the running of the whole model:
+Currently there are six files that are necessary for the running of the whole model:
 
 1. main.py: Controlling the whole experiment by defining a series of hyperparameters related to the structure of the loaded dataset, the structure of the model, the training and generating procedure, and the modes of the experiments. Please refer to the related python script for further details.
 2. model.py: Our VAE Model implemented in a hierarchical way. Please refer to the related paper for the detailed discussion of the structure of the model and the inference and generation procedure. 
